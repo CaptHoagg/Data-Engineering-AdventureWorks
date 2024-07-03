@@ -35,7 +35,7 @@ Our data engineering efforts encompassed the following:
    - Data from  Azure Synapse Serverless SQL Pool is integrated into Power BI for detailed analysis and visualization.
    - We built a data model consisting of Fact, Dimension, and Bridge tables to facilitate efficient data analysis.
 
-![ERD](Images\ERD.png)
+![ERD](Images/ERD.png)
 
 ## Dashboards Built
 
@@ -46,55 +46,55 @@ The Overview Dashboard provides a high-level summary of the company’s overall 
 
 - **Overview Page:** Summarizes critical KPIs and serves as a navigation hub for detailed analysis.
 
-![Overview Dashboard](Images\BI_Overview.png)
+![Overview Dashboard](Images/BI_Overview.png)
 
 ### Sales Dashboard
 The Sales Dashboard offers detailed insights into sales performance, highlighting revenue generation, profitability, and sales trends over time.
 
 - **Sales Overview:** Displays overall sales performance and trends.
 
-![Sales Overview](Images\BI_Sales_Overview.png)
+![Sales Overview](Images/BI_Sales_Overview.png)
 
 - **KPI Scoreboards:** Showcases key performance indicators for quick assessment.
 
-![Sales KPI Scoreboards](Images\BI_Sales_KPIScoreBoards.png)
+![Sales KPI Scoreboards](Images/BI_Sales_KPIScoreBoards.png)
 
 ### Product Dashboard
 The Product Dashboard provides an in-depth analysis of the company’s product portfolio, tracking financial and operational performance throughout the product lifecycle.
 
 - **Product Analysis:** Focuses on profitability, product performance, and lifecycle metrics.
 
-![Product Dashboard](Images\BI_Product.png)
+![Product Dashboard](Images/BI_Product.png)
 
 ### Purchasing Dashboard
 The Purchasing Dashboard analyzes purchasing operations, tracking key metrics such as quantity ordered, preferred vendors, and rejection rates.
 
 - **Purchasing Overview:** Summarizes purchasing activities and key metrics.
 
-![Purchasing Overview](Images\BI_Purchasing_overview.png)
+![Purchasing Overview](Images/BI_Purchasing_overview.png)
 
 - **Purchase Detail:** Provides detailed analysis of purchase transactions.
 
-![Purchase Detail](Images\BI_Purchasing_PurchaseDetail.png)
+![Purchase Detail](Images/BI_Purchasing_PurchaseDetail.png)
 
 - **Purchase Order Analysis:** Tracks purchase orders and their efficiency.
 
-![Purchase Order](Images\BI_Purchasing_PurchaseOrder.png)
+![Purchase Order](Images/BI_Purchasing_PurchaseOrder.png)
 
 - **Vendor Analysis:** Evaluates vendor performance and reliability.
 
-![Vendor Analysis](Images\BI_Purchasing_Vendor.png)
+![Vendor Analysis](Images/BI_Purchasing_Vendor.png)
 
 ### Manufacturing Dashboard
 The Manufacturing Dashboard delivers comprehensive insights into manufacturing processes, focusing on metrics such as average manufacturing time, error rate, and manufacturing efficiency.
 
 - **Manufacturing Overview:** Provides a high-level view of manufacturing efficiency and performance.
 
-![Manufacturing Overview](Images\BI_Manufacturing_Overview.png)
+![Manufacturing Overview](Images/BI_Manufacturing_Overview.png)
 
 - **Manufacturing Detail:** Offers detailed metrics on manufacturing processes, including error rates and production times.
 
-![Manufacturing Detail](Images\BI_Manufacturing_Detail.png)
+![Manufacturing Detail](Images/BI_Manufacturing_Detail.png)
 
 ## Acknowledgements
 
