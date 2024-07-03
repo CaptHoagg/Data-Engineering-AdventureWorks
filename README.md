@@ -14,7 +14,7 @@ This project, undertaken by Group Live Laugh Love from the University of Economi
 
 Our data engineering efforts encompassed the following:
 
-![Overall Architecture](Images\OverallArchitecture.png)
+![Overall Architecture](.\Images\OverallArchitecture.png)
 
 1. **Data Source Layer:** 
    - We utilized the AdventureWorks 2019 database as our primary data source, hosted on Azure SQL Server.
